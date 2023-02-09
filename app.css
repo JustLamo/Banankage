@@ -1,0 +1,73 @@
+h1 {
+ 
+font-family: 'Patrick Hand', cursive; 
+font-style: italic;
+font-size: xx-large;
+color: rgb(61, 37, 15);
+
+
+}
+
+img {
+    margin: 2%;
+    border-radius: 10px;
+    max-width: 100%;
+    border: 1px solid;
+    border-color: black;
+   
+
+    
+}
+
+p1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.a {
+    font-family: 'Patrick Hand', cursive; 
+    line-height: 1.6;
+}
+
+div.b {
+    font-family: 'Patrick Hand', cursive; 
+    line-height: 1.6;
+    
+}
+
+body {
+    font-family: 'Patrick Hand', cursive; 
+    background: url(https://img.freepik.com/premium-vector/realistic-crumpled-paper-texture-background_389675-149.jpg?auto=format&h=200);
+    background-size: 1000px;
+    background-position: 50%;
+
+}
+#ingredienser {
+    width: 225px;
+    margin: auto;
+    text-align: left;
+    background-color:#F4C4D3;
+
+}
+
+#Pynt {
+    margin: auto;
+    text-align: left;
+    width: 300px;
+    background-color: #F4C4D3;
+}
+
+#image {
+margin: auto;
+text-align: center;
+width: 300;
+border: 3px;
+
+
+}
+
+#Footer{
+    margin: auto;
+    text-align: center;
+    width: 300px;
+background-color: #F4C4D3;
+}
